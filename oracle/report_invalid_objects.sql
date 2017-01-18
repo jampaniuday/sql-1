@@ -1,3 +1,10 @@
+/********************
+* File: report_invalid_objects.sql
+*
+* Author: Jesus Sanchez (jsanchez.consultant@gmail.com)
+*
+* Copyright Notice: Creative Commons Attribution-ShareAlike 4.0 International License
+************************************/
 set feedback off
 set heading off
 SELECT '.........................'|| db_unique_name ||'...........................' FROM v$database;
