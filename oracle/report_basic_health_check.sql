@@ -1,3 +1,10 @@
+/********************
+* File: report_basic_health_check.sql
+*
+* Author: Jesus Sanchez (jsanchez.consultant@gmail.com)
+*
+* Copyright Notice: Creative Commons Attribution-ShareAlike 4.0 International License
+************************************/
 set pagesize 999
 set feedback off
 set heading off
