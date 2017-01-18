@@ -1,3 +1,10 @@
+/********************
+* File: report_db_links.sql
+*
+* Author: Jesus Sanchez (jsanchez.consultant@gmail.com)
+*
+* Copyright Notice: Creative Commons Attribution-ShareAlike 4.0 International License
+************************************/
 set linesize 140
 set pagesize 999
 column owner format a20
